@@ -1,9 +1,9 @@
-# Olá, me chamo Mateus Cereza ! 
-## Bem vindo ao meu perfil GitHub 👋
+# hi there 👋, i'm Mateus Cereza
+## welcome to my github profile 👋
 
 
-- 🔭 Atualmente trabalho como dev Fullstack -> React (tsx), Php (laravel)
-- 🌱 Evoluindo com Java
+- 🔭 actually working as a fullstack dev -> React (tsx), Php (laravel)
+- 🌱 evolving with java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cereza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="Cereza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Contatos:
+## contact:
 
 <div align="center" dir="auto">
 <a href = "mailto:cerezabusiness0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
