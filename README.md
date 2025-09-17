@@ -26,6 +26,7 @@
 
 <div align="center" dir="auto">
 <a href="https://github.com/MateusCereza">
-<img loading="lazy" height="180em" src="https://github-readme-stats-taupe-ten-20.vercel.app/api?username=MateusCereza&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"/>
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats-taupe-ten-20.vercel.app/api?username=MateusCereza&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr"/> -->
+  <img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api?theme=codeSTACKr&include_all_commits=true&count_private=true&username=MateusCereza&show_icons=true"/>
 <!-- <img loading="lazy" height="180em" src="https://github-readme-stats-taupe-ten-20.vercel.app/api/top-langs/?username=MateusCereza&layout=compact&langs_count=7&theme=codeSTACKr"/> -->
 </div>
